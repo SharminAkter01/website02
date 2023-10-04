@@ -1,0 +1,22 @@
+*{
+    padding: 0
+    ;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #5a4c4c;
+    color: whitesmoke;
+}
+.git{
+    background: #312929;
+    width: 800px;
+    height: 90vh;
+    margin: 50px auto;
+    padding: 50px;
+}
+.git .image img{
+    padding-bottom: 10px;
+    width: 100%;
+
+}
